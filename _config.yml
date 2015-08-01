@@ -1,0 +1,7 @@
+---
+exclude:
+  - .git
+  - .gitignore
+  - Dockerfile
+  - Makefile
+  - README.md

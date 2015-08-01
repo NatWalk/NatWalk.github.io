@@ -14,6 +14,6 @@ RUN apk add --update git ruby-dev nodejs gcc musl-dev make libffi-dev && \
     rm -rf /var/cache/apk/*
 
 WORKDIR /code
-COPY . /code
 
-CMD ["jekyll", "build"]
+EXPOSE 4000
+CMD ["jekyll", "serve", "--host", "0.0.0.0"]
