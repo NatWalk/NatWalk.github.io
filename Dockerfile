@@ -14,7 +14,6 @@ RUN apk add --update git ruby-dev nodejs gcc musl-dev make libffi-dev && \
     rm -rf /var/cache/apk/*
 
 WORKDIR /code
-
-# Copy the scripts folder and do the npm installs of any external scripts
 COPY . /code
+
 CMD ["jekyll", "build"]
