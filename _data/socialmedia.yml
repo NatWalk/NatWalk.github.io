@@ -1,44 +1,39 @@
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
-
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
-
-- name: Facebook
-  url: http://www.facebook.com/phlow.media
-  class: icon-facebook
-  title: "Lass uns Freunde sein!"
-
-- name: Soundcloud
-  url: http://soundcloud.com/phlow
-  class: icon-soundcloud
-  title: "Sounds und Downloads und mehr"
+- name: LinkedIn
+  url: https://www.linkedin.com/in/walkerk
+  class: icon-linkedin
+  title: LinkedIn
 
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/KyleJamesWalker
   class: icon-github
-  title: Code und mehr...
+  title: GitHub
+
+- name: Twitter
+  url: https://twitter.com/WalkerKyleJames
+  class: icon-twitter
+  title: Twitter
 
 - name: Instagram
-  url: http://instagram.com/phlowmedia
+  url: https://instagram.com/kylejameswalker
   class: icon-instagram
-  title: "Bilder und Impressionen mit und ohne Filter..."
+  title: Instagram
 
-- name: Pinterest
-  url: http://www.pinterest.com/phlowmedia/
-  class: icon-pinterest
-  title: "Bilder, Fotos, Illustrationen, Grafiken sammeln..."
+- name: Facebook
+  url: http://www.facebook.com/AKyleJamesWalker
+  class: icon-facebook
+  title: Facebook
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: AboutMe
+  url: https://about.me/KyleJamesWalker
+  class: icon-browser
+  title: about.me
 
-# - name: Xing
-#   url: https://www.xing.com/profile/Moritzmo_Sauer
-#   class: icon-xing
-#   title: Xing Profil
+- name: YouTube
+  url: https://www.youtube.com/channel/UCmZ2xjxktGZWrhmy6Cx48sA
+  class: icon-youtube
+  title: YouTube
+
+- name: Telegram
+  url: https://telegram.me/KyleJamesWalker
+  class: icon-chat
+  title: Telegram
