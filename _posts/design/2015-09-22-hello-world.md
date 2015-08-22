@@ -13,8 +13,7 @@ tags:
   - programming
 ---
 
-Hello World!
-
-## Other Programming Posts
-{: .t60 }
-{!% include list-posts tag='programming' %!}
+{% highlight python linenos %}
+def example():
+    print("Hello World")
+{% endhighlight %}
