@@ -2,10 +2,9 @@
 layout: page
 title: "About"
 subheadline: "Who is Kyle James Walker?"
-show_meta: false
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_info_splash.jpg"
 ---
 A Programmer, Traveler, and Photographer...
 

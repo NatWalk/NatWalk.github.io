@@ -24,4 +24,4 @@ RUN apk add --update \
 WORKDIR /code
 
 EXPOSE 4000
-CMD ["jekyll", "serve", "--host", "0.0.0.0", "--config", "_config.yml,_config_dev.yml"]
+CMD ["jekyll", "serve", "--host", "0.0.0.0", "--config", "_config.yml,_config_dev.yml", "--force_polling"]
