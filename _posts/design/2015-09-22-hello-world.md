@@ -1,10 +1,9 @@
 ---
 layout: page-fullwidth
-title: "The Elusive Hello World"
-subheadline: "Your first program, your first post."
+title: "Finally my website"
+subheadline: "First"
 teaser: |
-  So often the first example of a programming language is a simple hello world.
-  So why not begin this blog with one such post?
+  Hello there! No thoughts.
 header: no
 categories:
   - programming
