@@ -1,34 +1,17 @@
-- name: LinkedIn
-  url: https://www.linkedin.com/in/walkerk
-  class: icon-linkedin
-  title: LinkedIn
 
-- name: GitHub
-  url: https://github.com/KyleJamesWalker
-  class: icon-github
-  title: GitHub
 
 - name: Twitter
-  url: https://twitter.com/WalkerKyleJames
+  url: https://twitter.com/walker_nataly
   class: icon-twitter
   title: Twitter
 
-- name: Instagram
-  url: https://instagram.com/kylejameswalker
-  class: icon-instagram
-  title: Instagram
-
 - name: Facebook
-  url: http://www.facebook.com/AKyleJamesWalker
+  url: https://www.facebook.com/natalywalker
   class: icon-facebook
   title: Facebook
 
 - name: AboutMe
-  url: https://about.me/KyleJamesWalker
+  url: https://about.me/nataly_walker
   class: icon-browser
   title: about.me
 
-- name: YouTube
-  url: https://www.youtube.com/channel/UCmZ2xjxktGZWrhmy6Cx48sA
-  class: icon-youtube
-  title: YouTube
