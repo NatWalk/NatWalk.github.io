@@ -7,6 +7,6 @@ header:
     image_fullwidth: "header_info_splash.jpg"
 ---
 
-Dreamer. Wife. Mommy to my furkids. Computer geek. Warrior. Badass.
+Dreamer. Wife. Mommy to my furkids. Traveler. Computer geek. Cancer Warrior. Badass.
 
 <More Goes Here Later>
