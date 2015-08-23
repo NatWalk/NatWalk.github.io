@@ -6,9 +6,9 @@ teaser: |
   Hello there! No thoughts.
 header: no
 categories:
-  - programming
+  - Basic
 tags:
-  - programming
+  - Basic
 ---
 
 {% highlight python linenos %}
