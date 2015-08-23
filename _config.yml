@@ -7,23 +7,23 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Kyle James Walker"
+title: "Nataly Walker"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "Always push your limits, and love doing it."
+slogan: "I am forever"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "A collection of random thoughts by Kyle James Walker"
+description: "Dreams. Thoughts. Life."
 
 # Main author of the website
 # See > authors.yml
-author: KyleJamesWalker
+author: NatWalk
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://kylejameswalker.github.io"
+url: "https://NatWalk.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -36,7 +36,7 @@ improve_content: ""
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "https://kylejameswalker.github.io/images/"
+urlimg: "https://NatWalk.github.io/images/"
 
 
 # Logo size is 600x80 pixels

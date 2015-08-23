@@ -4,6 +4,6 @@
 # 2. Change author in default settings in config.yml
 #
 # Ressource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
-KyleJamesWalker:
-    name: "Kyle James Walker"
-    url: http://KyleJamesWalker.github.io/
+NatWalk:
+    name: "Nataly Walker"
+    url: http://www.natalywalker.com
