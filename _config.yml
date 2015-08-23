@@ -101,7 +101,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: "KyleJamesWalker"
+      author: "NatWalk"
   -
     scope:
       path: ""
@@ -110,7 +110,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: true
-      author: "KyleJamesWalker"
+      author: "NatWalk"
 
 
 
