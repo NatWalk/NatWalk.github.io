@@ -10,8 +10,4 @@ categories:
 tags:
   - Basic
 ---
-
-{% highlight python linenos %}
-def example():
-    print("Hello World")
-{% endhighlight %}
+This will be my first post about nothing. Just working on this website...
