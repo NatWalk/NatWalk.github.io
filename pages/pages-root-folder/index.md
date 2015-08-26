@@ -1,6 +1,6 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: header_front_splash.jpg
+  image_fullwidth: header_info_splash.jpg
 permalink: /index.html
 ---
